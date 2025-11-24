@@ -104,7 +104,7 @@ feel free to reach out — I can help turn your raw data into **clinical insight
 
 - **Email:** your_email_here  
 - **Location:** Atlanta, GA  
-- **LinkedIn:** *(optional)*  
+- **LinkedIn:** *[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yunlong-qin-m-d-ph-d-53132192)*  
 
 ---
 
