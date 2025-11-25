@@ -108,7 +108,7 @@ feel free to reach out — I can help turn your raw data into **clinical insight
 
 ## ✉️ Contact
 
-- **Email:** your_email_here  
+- **Email:** bangong24@outlook.com  
 - **Location:** Atlanta, GA  
 - **LinkedIn:** *[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yunlong-qin-m-d-ph-d-53132192)*  
 
