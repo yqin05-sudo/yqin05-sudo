@@ -1,15 +1,13 @@
+<h1 align="center">Hi, I'm Yunlong Qin, PhD 👋</h1>
+<h3 align="center">Independent Researcher | Statistical Consultant | Oncology Data Scientist</h3>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/yunlong-qin-m-d-ph-d-53132192">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="https://github.com/yqin05-sudo">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github" />
-  </a>
-  <a href="mailto:your_email_here">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" />
-  </a>
 </p>
 
+---
 
 ## 🔬 About Me
 
