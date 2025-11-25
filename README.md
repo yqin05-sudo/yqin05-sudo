@@ -11,8 +11,6 @@
 </p>
 
 
----
-
 ## 🔬 About Me
 
 I am an independent researcher based in **Atlanta, GA**, specializing in:
